@@ -26,7 +26,8 @@ limitations under the License.
 /* General Type */
 
 body {
-  font-family: "Helvetica", "Arial", sans-serif;
+/*  font-family: "Helvetica", "Arial", sans-serif;*/
+  font-family: "Helvetica Neue", "Hiragino Kaku Gothic ProN", "Segoe UI", Meiryo, sans-serif;
   background-color: #f7f7f7;
 }
 
